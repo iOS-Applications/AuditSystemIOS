@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>周一</string>
+		<key>taskCompeletedCount</key>
+		<integer>0</integer>
+		<key>tasks</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>001.png</string>
+				<key>intro</key>
+				<string>上午10点出发，到合肥进行稽核检查</string>
+				<key>name</key>
+				<string>交通在途 （上海－合肥）</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>周二</string>
+		<key>taskCompeletedCount</key>
+		<integer>0</integer>
+		<key>tasks</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>001.png</string>
+				<key>intro</key>
+				<string>上午11点出发，到合肥进行稽核检查</string>
+				<key>name</key>
+				<string>交通在途（合肥－北京）</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>002.png</string>
+				<key>intro</key>
+				<string>在客户仓库进行盘查，清点货物</string>
+				<key>name</key>
+				<string>稽核客户</string>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
